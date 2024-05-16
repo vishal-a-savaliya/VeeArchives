@@ -14,10 +14,10 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        <p>
+        {/* <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://twitter.com/x_itsvee">Vee Archives{version}</a> © {year}
-        </p>
+        </p> */}
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
