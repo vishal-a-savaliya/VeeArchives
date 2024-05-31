@@ -1,8 +1,8 @@
 ---
-title: introduction to Node.js
+title: Introduction to Node.js
 draft: false
 tags:
-  - example-tag
+  - NodeJS
 ---
  
 Node.js, I'd describe it as a revolutionary open-source server environment that fundamentally changed the way web applications are built. Node.js enables developers to use JavaScript, traditionally a client-side scripting language, to write server-side code. This unification of programming languages across the stack simplifies development processes and opens up new possibilities for web application development.
