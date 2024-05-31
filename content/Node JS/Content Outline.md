@@ -9,7 +9,7 @@ The rest of your content lives here. You can use **Markdown** here :)
     
     - What is Node.js?
     - Key features and benefits
-    - Understanding the event-driven architecture
+    - [[Understanding the event-driven architecture]]
     - Differences between Node.js and traditional web server models
 2. **Setting Up Environment**
     

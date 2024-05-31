@@ -1,5 +1,5 @@
 ---
-title: How to Make Better Decisions -Decision-Making Mental Models - Using Intuition | Tim Ferriss
+title: How to Make Better Decisions - Using Intuition & Decision-Making Mental Models | Tim Ferriss
 draft: false
 tags:
   - Notes
@@ -7,7 +7,7 @@ tags:
   - Decision-Making
 Date: 2024-05-31
 ---
-# 1 Making reversible OR Fixable decision as quickly as possible
+# 1 MAKING REVERSIBLE OR FIXABLE DECISION AS 
 
 Heuristics and rules of thumb that i use quite a lot the first is looking to make reversible or fixable decisions as quickly as possible.
 
