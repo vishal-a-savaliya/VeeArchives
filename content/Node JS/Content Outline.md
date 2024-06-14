@@ -4,7 +4,6 @@ draft: false
 tags:
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
 1. **[[Introduction to Node.js]]**
     
     - What is Node.js?

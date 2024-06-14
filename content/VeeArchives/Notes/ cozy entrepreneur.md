@@ -8,7 +8,7 @@ date: 2024-06-02
 # RULE #1 ZERO-SHAME POLICY
 
 -  Stop casual shames
-	has shaming yourself ever mode you more productive?
+	- has shaming yourself ever mode you more productive?
 - Times does not = productivity, self worth does not = productivity
 - treat yourself the way you would your own biz bestie
 - isn't the flexibility & freedom why you become self-employed?
